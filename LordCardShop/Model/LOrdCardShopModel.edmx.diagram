@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4d0f80daef8547cf93df4acbfc740ca9" Name="Diagram1">
+        <EntityTypeShape EntityType="LOrdCardShopDBModel.Card" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LOrdCardShopDBModel.CartItem" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LOrdCardShopDBModel.TransactionDetail" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LOrdCardShopDBModel.Transaction" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LOrdCardShopDBModel.User" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="LOrdCardShopDBModel.FK__CartItems__CardI__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="LOrdCardShopDBModel.FK__Transacti__CardI__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="LOrdCardShopDBModel.FK__CartItems__UserI__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="LOrdCardShopDBModel.FK__Transacti__Trans__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="LOrdCardShopDBModel.FK__Transacti__UserI__3E52440B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

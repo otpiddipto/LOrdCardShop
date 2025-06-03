@@ -89,6 +89,20 @@
       <DependentUpon>LOrdCardShopModel.edmx</DependentUpon>
       <LastGenOutput>LOrdCardShopModel.cs</LastGenOutput>
     </Content>
+    <Content Include="Views\Admin\AddCard.aspx" />
+    <Content Include="Views\Admin\EditCard.aspx" />
+    <Content Include="Views\Admin\HandleTransaction.aspx" />
+    <Content Include="Views\Admin\Home.aspx" />
+    <Content Include="Views\Admin\ManageCard.aspx" />
+    <Content Include="Views\Customer\CardDetail.aspx" />
+    <Content Include="Views\Customer\Cart.aspx" />
+    <Content Include="Views\Customer\Checkout.aspx" />
+    <Content Include="Views\Customer\Home.aspx" />
+    <Content Include="Views\Customer\Profile.aspx" />
+    <Content Include="Views\Customer\TransactionDetail.aspx" />
+    <Content Include="Views\Customer\TransactionHistory.aspx" />
+    <Content Include="Views\Guest\Login.aspx" />
+    <Content Include="Views\Guest\Register.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -98,6 +112,22 @@
     <Compile Include="Cart.cs">
       <DependentUpon>LOrdCardShopModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\CardController.cs" />
+    <Compile Include="Controllers\CartController.cs" />
+    <Compile Include="Controllers\TransactionController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Factories\CardFactory.cs" />
+    <Compile Include="Factories\CartFactory.cs" />
+    <Compile Include="Factories\TransactionFactory.cs" />
+    <Compile Include="Factories\UserFactory.cs" />
+    <Compile Include="Handlers\CardHandler.cs" />
+    <Compile Include="Handlers\CartHandler.cs" />
+    <Compile Include="Handlers\TransactionHandler.cs" />
+    <Compile Include="Handlers\UserHandler.cs" />
+    <Compile Include="Repositories\CardRepository.cs" />
+    <Compile Include="Repositories\CartRepository.cs" />
+    <Compile Include="Repositories\TransactionRepository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
     <Compile Include="LOrdCardShopModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -123,6 +153,104 @@
     <Compile Include="User.cs">
       <DependentUpon>LOrdCardShopModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Views\Admin\AddCard.aspx.cs">
+      <DependentUpon>AddCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\AddCard.aspx.designer.cs">
+      <DependentUpon>AddCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\EditCard.aspx.cs">
+      <DependentUpon>EditCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\EditCard.aspx.designer.cs">
+      <DependentUpon>EditCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\HandleTransaction.aspx.cs">
+      <DependentUpon>HandleTransaction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\HandleTransaction.aspx.designer.cs">
+      <DependentUpon>HandleTransaction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Admin\ManageCard.aspx.cs">
+      <DependentUpon>ManageCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\ManageCard.aspx.designer.cs">
+      <DependentUpon>ManageCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\CardDetail.aspx.cs">
+      <DependentUpon>CardDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\CardDetail.aspx.designer.cs">
+      <DependentUpon>CardDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\Checkout.aspx.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\Checkout.aspx.designer.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionDetail.aspx.cs">
+      <DependentUpon>TransactionDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionDetail.aspx.designer.cs">
+      <DependentUpon>TransactionDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionHistory.aspx.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Customer\TransactionHistory.aspx.designer.cs">
+      <DependentUpon>TransactionHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Guest\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Guest\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Guest\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Guest\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="LOrdCardShopModel.edmx">
@@ -143,15 +271,7 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Factories\" />
-    <Folder Include="Handlers\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Views\Admin\" />
-    <Folder Include="Views\Customer\" />
-    <Folder Include="Views\Guest\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

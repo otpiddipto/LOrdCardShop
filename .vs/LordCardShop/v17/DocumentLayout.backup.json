@@ -1,0 +1,869 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\addcard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\addcard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\editcard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\editcard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\handletransaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\managecard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\managecard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\carddetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\carddetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\guest\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\guest\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\guest\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\guest\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\handletransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\editcard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\editcard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\addcard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\addcard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\lordcardshop\\factories\\cardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\factories\\cardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\managecard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\managecard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\admin\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\admin\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\guest\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\guest\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\transactiondetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\transactiondetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\transactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\carddetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\carddetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\customer\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\customer\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\views\\guest\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\views\\guest\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\transactionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|c:\\users\\lenovo\\onedrive - bina nusantara\\kuliah\\semester 4\\pattern software design\\lordcardshop\\lordcardshop\\lordcardshopmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\lordcardshopmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\lordcardshop\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\lordcardshop\\factories\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEDBD7-9E24-45A0-AEA6-04176C282A48}|LordCardShop\\LordCardShop.csproj|solutionrelative:lordcardshop\\factories\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandleTransaction.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\HandleTransaction.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\HandleTransaction.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\HandleTransaction.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\HandleTransaction.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T08:22:51.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCard.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\ManageCard.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\ManageCard.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\ManageCard.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\ManageCard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T08:06:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\Home.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\Home.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\Home.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T08:01:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\CardDetail.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\CardDetail.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\CardDetail.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\CardDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T04:10:58.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Cart.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Cart.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Cart.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T04:22:03.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCard.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\EditCard.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\EditCard.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\EditCard.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\EditCard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T08:18:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCard.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\AddCard.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\AddCard.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\AddCard.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\AddCard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T08:10:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Home.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Home.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Home.aspx*",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Home.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T04:03:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Login.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Guest\\Login.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Login.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Guest\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T01:25:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Profile.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Profile.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Profile.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T07:27:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Checkout.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Checkout.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Checkout.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T05:59:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Profile.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Profile.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:28:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Guest\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Login.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Guest\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:06:01.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\AddCard.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\AddCard.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\AddCard.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\AddCard.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:12:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\EditCard.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\EditCard.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\EditCard.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\EditCard.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:18:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HandleTransaction.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\HandleTransaction.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\HandleTransaction.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\HandleTransaction.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\HandleTransaction.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:23:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\CardFactory.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Factories\\CardFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\CardFactory.cs",
+              "RelativeToolTip": "LordCardShop\\Factories\\CardFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:43:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageCard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\ManageCard.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\ManageCard.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\ManageCard.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\ManageCard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:08:27.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionDetail.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\TransactionDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionDetail.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\TransactionDetail.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:05:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Guest\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Register.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Guest\\Register.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:28:57.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Admin\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Admin\\Home.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Admin\\Home.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:02:42.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionDetail.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\TransactionDetail.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionDetail.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\TransactionDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T06:54:20.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\TransactionHistory.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:46:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionHistory.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\TransactionHistory.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\TransactionHistory.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\TransactionHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T06:45:29.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Home.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Home.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:05:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Checkout.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Checkout.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:16:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\Cart.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\Cart.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:23:24.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CardDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\CardDetail.aspx.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Customer\\CardDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Customer\\CardDetail.aspx.cs",
+              "RelativeToolTip": "LordCardShop\\Views\\Customer\\CardDetail.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:15:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LordCardShop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:44:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "LordCardShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:56:38.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "LordCardShop\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:57:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Controllers\\CardController.cs",
+              "RelativeToolTip": "LordCardShop\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:53:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Handlers\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Handlers\\TransactionHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Handlers\\TransactionHandler.cs",
+              "RelativeToolTip": "LordCardShop\\Handlers\\TransactionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:58:32.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Handlers\\UserHandler.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Handlers\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Handlers\\UserHandler.cs",
+              "RelativeToolTip": "LordCardShop\\Handlers\\UserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:42:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LordCardShop\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:00:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Register.aspx",
+              "RelativeDocumentMoniker": "LordCardShop\\Views\\Guest\\Register.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Views\\Guest\\Register.aspx",
+              "RelativeToolTip": "LordCardShop\\Views\\Guest\\Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T01:36:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LOrdCardShopModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.edmx",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.edmx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.edmx [Diagram1]",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-03T02:15:49.196Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\User.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\User.cs",
+              "RelativeToolTip": "LordCardShop\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransactionHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\TransactionHeader.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\TransactionHeader.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\TransactionHeader.cs",
+              "RelativeToolTip": "LordCardShop\\TransactionHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TransactionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\TransactionDetail.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\TransactionDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\TransactionDetail.cs",
+              "RelativeToolTip": "LordCardShop\\TransactionDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LOrdCardShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.cs",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Cart.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Cart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Cart.cs",
+              "RelativeToolTip": "LordCardShop\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Card.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Card.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Card.cs",
+              "RelativeToolTip": "LordCardShop\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LOrdCardShopModel.tt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.tt",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.tt",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.tt",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-03T02:15:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LOrdCardShopModel.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.edmx.diagram",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.edmx.diagram",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.edmx.diagram",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T02:15:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LOrdCardShopModel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Designer.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Designer.cs",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LOrdCardShopModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Context.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.Context.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Context.cs",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:15:50.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LOrdCardShopModel.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Context.tt",
+              "RelativeDocumentMoniker": "LordCardShop\\LOrdCardShopModel.Context.tt",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\LOrdCardShopModel.Context.tt",
+              "RelativeToolTip": "LordCardShop\\LOrdCardShopModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-03T02:15:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\UserFactory.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Factories\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\UserFactory.cs",
+              "RelativeToolTip": "LordCardShop\\Factories\\UserFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:43:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TransactionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\TransactionFactory.cs",
+              "RelativeDocumentMoniker": "LordCardShop\\Factories\\TransactionFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Bina Nusantara\\KULIAH\\Semester 4\\Pattern Software Design\\LordCardShop\\LordCardShop\\Factories\\TransactionFactory.cs",
+              "RelativeToolTip": "LordCardShop\\Factories\\TransactionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:43:58.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
